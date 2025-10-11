@@ -55,9 +55,8 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
   <img src="https://cdn.simpleicons.org/c/61DAFB" height="40" alt="C" />
   <img src="https://cdn.simpleicons.org/c++/61DAFB" height="40" alt="CPP" />
-  <img src="https://skillicons.dev/icons?i=java&theme=light"height="40"alt="Java" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light"height="40" alt="Node"/>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light"height="40" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node"/>
 
 </p>
 
