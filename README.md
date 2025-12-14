@@ -19,9 +19,10 @@
 | 🔬 Project | 💡 Description | 🧰 Stack |
 |------------|----------------|----------|
 | [**Waste Classication**](https://github.com/weiss25r/Waste-Classification) | Waste classification with MobileNetV3 + Cross platform app | ⚡ PyTorch Lightning · FastAPI · React Native  |
-| [**AI Markdown Manager**](https://github.com/weiss25r/AI-Markdown-Manager) | Plan-Execute multi-agent system for autonomous Markdown editing | 🪶 LangGraph · Whisper · Streamlit   |
-| [**LogiRotor**](https://github.com/weiss25r/LogiRotor) | Drone simulation for optimized warehouse logistics | 🧭 Python · PID Control · Godot |
-| [**Road Signs detection and recognition**](https://github.com/weiss25r/Road-signs-detection-and-recognition) | Deep learning models for real-time detection of road signs + Streamlit web app|  🚦Pytorch · Ultralytics · Streamlit
+| [**AI Markdown Manager**](https://github.com/weiss25r/AI-Markdown-Manager) | Multi-agent system for autonomous Markdown editing | 🪶 LangChain · LangGraph · Streamlit   |
+| [**Road Signs detection and recognition**](https://github.com/weiss25r/Road-signs-detection-and-recognition) | Real-time detection of road signs + Streamlit web app |  🚦Pytorch · Ultralytics YOLO · Streamlit |
+| [**Diff Lightning**](https://github.com/weiss25r/DiffLightning) | Diffusion Models implemented in Pytorch Lightning | 🖼️ PyTorch · PyTorch Lightning |  
+| [**LogiRotor**](https://github.com/weiss25r/LogiRotor) | Drone simulation for optimized warehouse logistics | 🧭 Python · PID Control · Godot | 
 | [**Data analysis on diabetic patients readmissions in hospitals**](https://github.com/weiss25r/Data-analysis-of-diabetic-patients-readmissions-in-hospitals) | A complete data-analysis pipeline to help diabetic patients | 🧬 Pandas · Statsmodels · Scikit-learn
 | [**Image denoising on mammograms**](https://github.com/weiss25r/Image-denoising-on-the-MIAS-mammography-dataset) | Image processing pipeline to denoise and enhance mammograms | 🖼️ Numpy · Pandas · OpenCV 
 ---
