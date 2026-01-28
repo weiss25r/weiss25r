@@ -29,21 +29,36 @@
 
 ### ⚙️ Tech Stack
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/58A6FF" height="40" alt="Python" /> <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" /> <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="40" alt="NumPy" /> <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" /> <img src="https://cdn.simpleicons.org/opencv/150458" height="40" alt="OpenCV" />
 
-  <br/>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/58A6FF" height="40" alt="Python" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.simpleicons.org/numpy/4DABCF" height="40" alt="NumPy" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" /></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.simpleicons.org/opencv/150458" height="40" alt="OpenCV" /></a>
 
-  <img src="https://cdn.simpleicons.org/langchain/00B0FF" height="40" alt="LangChain" /> <img src="https://cdn.simpleicons.org/langgraph/00B0FF" height="40" alt="LangGraph" /> <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face" />
+  <br />
 
-  <br/>
+  <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/langchain/00B0FF" height="40" alt="LangChain" /></a>
+  <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/langgraph/00B0FF" height="40" alt="LangGraph" /></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face" /></a>
 
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI" /> <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" /> <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" /> <img src="https://cdn.simpleicons.org/postgresql/61DAFB" height="40" alt="postgres" /> <img src="https://cdn.simpleicons.org/mongodb/61DAFB" height="40" alt="mongo" />
+  <br />
 
-  <br/>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/61DAFB" height="40" alt="postgres" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/61DAFB" height="40" alt="mongo" /></a>
 
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" /> <img src="https://cdn.simpleicons.org/c/61DAFB" height="40" alt="C" /> <img src="https://cdn.simpleicons.org/c++/61DAFB" height="40" alt="CPP" /> <img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java" /> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node"/>
+  <br />
+
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" /></a>
+  <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/c/61DAFB" height="40" alt="C" /></a>
+  <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/c++/61DAFB" height="40" alt="CPP" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node"/></a>
+
 </div>
-
 
 ---
 
