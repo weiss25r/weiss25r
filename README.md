@@ -4,7 +4,7 @@
 </p>
 
 ---
-### 🧠 About Me
+### About Me
 > *“Can machines think?”*
 
 - 🎓 MSc Computer Science @ **University of Catania**  
@@ -14,9 +14,9 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-| 🔬 Project | 💡 Description | 🧰 Stack |
+| Project | Description | Stack |
 |------------|----------------|----------|
 | [**Waste Classication**](https://github.com/weiss25r/Waste-Classification) | Waste classification with MobileNetV3 + Cross platform app | ⚡ PyTorch Lightning · FastAPI · React Native  |
 | [**AI Markdown Manager**](https://github.com/weiss25r/AI-Markdown-Manager) | Multi-agent system for autonomous Markdown editing | 🪶 LangChain · LangGraph · Streamlit   |
