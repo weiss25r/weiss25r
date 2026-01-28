@@ -28,7 +28,7 @@
 ---
 
 ### ⚙️ Tech Stack
-<p align="center">
+<div align="center">
 
   <img src="https://cdn.simpleicons.org/python/58A6FF" height="40" alt="Python" />
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" />
@@ -59,7 +59,7 @@
   <img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java" />
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node"/>
 
-</p>
+</div>
 
 
 ---
