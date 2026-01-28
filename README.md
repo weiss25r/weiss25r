@@ -30,33 +30,29 @@
 ### ⚙️ Tech Stack
 <div align="center">
 
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/58A6FF" height="40" alt="Python" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.simpleicons.org/numpy/4DABCF" height="40" alt="NumPy" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" /></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.simpleicons.org/opencv/150458" height="40" alt="OpenCV" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28" />
 
-  <br />
 
-  <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/langchain/00B0FF" height="40" alt="LangChain" /></a>
-  <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/langgraph/00B0FF" height="40" alt="LangGraph" /></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face" /></a>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" />
 
-  <br />
 
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/61DAFB" height="40" alt="postgres" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/61DAFB" height="40" alt="mongo" /></a>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" />
 
-  <br />
-
-  <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" /></a>
-  <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/c/61DAFB" height="40" alt="C" /></a>
-  <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/c++/61DAFB" height="40" alt="CPP" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node"/></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" />
 
 </div>
 
