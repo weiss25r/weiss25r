@@ -7,10 +7,10 @@
 ### About Me
 > *“Can machines think?”*
 
-- 🎓 MSc Computer Science @ **University of Catania**  
-- 🧩 Interested in all AI topics, with a focus on **Computer Vision** and **Natural Language Processing**
-- 🤖 Passionate about **Machine Learning systems** that learn from and reason over data  
-- ⚙️ Focused on **data-centric pipelines**, **efficient model design** and **daily life applications of AI**
+- MSc Computer Science @ **University of Catania**  
+- Interested in all AI topics, with a focus on **Computer Vision** and **Natural Language Processing**
+- Passionate about **Machine Learning systems** that learn from and reason over data  
+- Focused on **data-centric pipelines**, **efficient model design** and **daily life applications of AI**
 
 ---
 
