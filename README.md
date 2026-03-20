@@ -23,7 +23,7 @@
 | [**Road Signs detection and recognition**](https://github.com/weiss25r/Road-signs-detection-and-recognition) | Real-time detection of road signs + Streamlit web app | Pytorch · Ultralytics YOLO · Streamlit |
 | [**Diff Lightning**](https://github.com/weiss25r/DiffLightning) | Diffusion Models implemented in Pytorch Lightning | PyTorch · PyTorch Lightning |
 | [**HeartMap**](https://github.com/weiss25r/HeartMap) | AI expert system for cardiology departments | Pandas · Pgmpy · Scikit-learn |
-| [**LogiRotor**](https://github.com/weiss25r/LogiRotor) | Drone simulation for optimized warehouse logistics | Python · PID Control · Godot | 
+| [**LogiRotor**](https://github.com/weiss25r/LogiRotor) | Drone simulation for optimized warehouse logistics | Robotics · Python · Godot | 
 | [**Data analysis on diabetic patients readmissions in hospitals**](https://github.com/weiss25r/Data-analysis-of-diabetic-patients-readmissions-in-hospitals) | A complete data-analysis pipeline to help diabetic patients | Pandas · Statsmodels · Scikit-learn
 | [**Image denoising on mammograms**](https://github.com/weiss25r/Image-denoising-on-the-MIAS-mammography-dataset) | Image processing pipeline to denoise and enhance mammograms | Numpy · Pandas · OpenCV 
 ---
