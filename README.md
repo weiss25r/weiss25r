@@ -18,7 +18,7 @@
 
 | Project | Description | Stack |
 |------------|----------------|----------|
-| [**ClauseLens**](https://github.com/weiss25r/ClauseLens) | AI system for legal contracts | Pytorch · Ollama · NLTK |
+| [**ClauseLens**](https://github.com/weiss25r/ClauseLens) | AI system for legal contracts | Pytorch · Langchain + Ollama · NLTK |
 | [**Waste Classication**](https://github.com/weiss25r/Waste-Classification) | Waste classification with MobileNetV3 + Cross platform app | PyTorch Lightning · FastAPI · React Native  |
 | [**AI Markdown Manager**](https://github.com/weiss25r/AI-Markdown-Manager) | Multi-agent system for autonomous Markdown editing | LangChain · LangGraph · Streamlit   |
 | [**Road Signs detection and recognition**](https://github.com/weiss25r/Road-signs-detection-and-recognition) | Real-time detection of road signs + Streamlit web app | Pytorch · Ultralytics YOLO · Streamlit |
