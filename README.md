@@ -5,7 +5,6 @@
 
 ---
 ### About Me
-> *“Can machines think?”*
 
 - MSc Computer Science - AI @ **University of Catania**  
 - Interested in all AI topics, with a focus on **Computer Vision** and **Natural Language Processing**
