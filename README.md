@@ -17,7 +17,7 @@
 
 | Project | Description | Stack |
 |------------|----------------|----------|
-| [**ClauseLens**](https://github.com/weiss25r/ClauseLens) | AI system for legal contracts | Pytorch · Langchain + Ollama · NLTK |
+| [**ClauseLens**](https://github.com/weiss25r/ClauseLens) | AI system for legal contracts | PyTorch · Langchain + Ollama · NLTK |
 | [**Waste Classication**](https://github.com/weiss25r/Waste-Classification) | Waste classification with MobileNetV3 + Cross platform app | PyTorch Lightning · FastAPI · React Native  |
 | [**VideoCLIP**](https://github.com/weiss25r/Vision-Language-Alignment-with-CLIP-for-Video) | Semantic text-video retrieval with Deep Learning | PyTorch Lightning · Transformers |
 | [**RepoRec**](https://github.com/weiss25r/RepoRec) | Graph-based recommender system for GitHub repositories | Apache Spark · FAISS · MLlib | 
