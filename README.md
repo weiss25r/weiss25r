@@ -6,7 +6,7 @@
 ---
 ### About Me
 
-- MSc Computer Science - AI @ **University of Catania**  
+- MSc graduate in Computer Science, track Data Science @ **University of Catania**  
 - Interested in all AI topics, with a focus on **Computer Vision** and **Natural Language Processing**
 - Passionate about **Machine Learning systems** that learn from and reason over data  
 - Focused on **daily life applications of AI**
