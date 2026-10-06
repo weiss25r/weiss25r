@@ -23,7 +23,7 @@
 | [**RepoRec**](https://github.com/weiss25r/RepoRec) | Graph-based recommender system for GitHub repositories | Apache Spark · FAISS · MLlib | 
 | [**TrackDetrac**](https://github.com/weiss25r/TrackDetrac) | Multi-vehicle tracking from traffic camera footage, maintaining identity across frames | PyTorch · Ultralytics YOLO · TrackEval |
 | [**AI Markdown Manager**](https://github.com/weiss25r/AI-Markdown-Manager) | Multi-agent system for autonomous Markdown editing | LangChain · LangGraph · Streamlit   |
-| [**SignSense*](https://github.com/weiss25r/Sign) | Detection and recognition of road signs | PyTorch · Ultralytics YOLO|
+| [**SignSense**](https://github.com/weiss25r/Sign) | Detection and recognition of road signs | PyTorch · Ultralytics YOLO|
 ---
 
 ### ⚙️ Tech Stack
